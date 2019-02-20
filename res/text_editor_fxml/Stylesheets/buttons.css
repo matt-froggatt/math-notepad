@@ -7,22 +7,11 @@
 	-fx-background-color: transparent;
 }
 
-.list_btn{
-	-fx-background-color: #524775;
-}
-
 .add_btn:hover{
 	-fx-text-fill: #a1a1a1;
-}
-
-.list_btn:hover{
-	-fx-background-color: #4a406b;
 }
 
 .add_btn:pressed{
 	-fx-text-fill:  #717171;
 }
 
-.list_btn:pressed{
-	-fx-background-color: #423765;
-}

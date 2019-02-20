@@ -1,0 +1,15 @@
+.button{
+	-fx-background-radius: 0;
+}
+
+.list_btn{
+	-fx-background-color: transparent;
+}
+
+.list_btn:hover{
+	-fx-background-color: #33334444;
+}
+
+.list_btn:pressed{
+	-fx-background-color: #33334477;
+}
