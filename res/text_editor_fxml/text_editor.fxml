@@ -48,7 +48,7 @@
     <center>
         <HTMLEditor
                 htmlText="&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;/body&gt;&lt;/html&gt;"
-                onKeyReleased="#parseText" prefHeight="200.0" prefWidth="506.0"
-                stylesheets="@Stylesheets/htmleditor.css" BorderPane.alignment="CENTER"/>
+                onKeyReleased="#modifyText" prefHeight="200.0" prefWidth="506.0"
+                stylesheets="@Stylesheets/htmleditor.css" BorderPane.alignment="CENTER" fx:id="textEditor"/>
     </center>
 </BorderPane>
